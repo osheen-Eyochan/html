@@ -1,0 +1,18 @@
+<html>
+	<head>	
+		<title>Indianfestivals</title>
+	</head>
+	<body>	
+		<h1 align="center"style="color:red">
+		Indian festival</h1>
+		 <a href="diwali.html"><h2 style ="color:blue">Diwali</h2>
+		<img src="diwali.jpg" width=500px height=700px/> </a>
+		<p align="center">Diwali festival of light</p>
+	 <a href="holi.html">	<h3 style="color:green">Holi</h3>
+		<img src="holi.jpg" width=500px height=700px/></a>
+		<p align="center"> Holi is the festivals of colours</p>
+		<a href="onam.html"><h3 style ="color:red;"> ONAM</h3>
+		<img src="onam.jpg" width=500px height=700px/></a>
+		<p align = "center"> Onam is the festival of Kerala</p>
+	</boby>
+</html>
